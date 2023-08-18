@@ -1,7 +1,3 @@
-# Classification-model-in-Pyspark-Titanica-Data-
-Certainly! Below is a template for a README file that you can use as a starting point for your Classification model using PySpark on Titanic dataset. Feel free to customize it according to your project's details.
-
----
 
 # Classification Model using PySpark (Titanic Dataset)
 
