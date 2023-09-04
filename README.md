@@ -1,6 +1,8 @@
 
 # Classification Model using PySpark (Titanic Dataset)
 In the first section of the peorject, the files has been uploaded from google drive and the project has been done using Google Colab 
+
+This code has been used the google drive, so you have to login to your google drive.
 This repository contains code for building a classification model using PySpark on the Titanic dataset. The goal of the project is to predict whether a passenger survived or not based on various features.
 
 ## Table of Contents
