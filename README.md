@@ -34,7 +34,6 @@ The Titanic dataset used in this project contains information about passengers o
 - Fare
 - Port of Embarkation
 
-The dataset is available [here](https://www.kaggle.com/c/titanic/data) on Kaggle.
 
 ## Installation
 
